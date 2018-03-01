@@ -9,7 +9,7 @@ sudo add-apt-repository ppa:cairo-dock-team/ppa
 sudo apt-get update
 sudo apt-get install cairo-dock cairo-dock-plug-ins
 
-#install Nautilus file manager (be sure to set as your default in the settings)
+#install Nautilus file manager (be sure to set as your default file manager in the settings)
 sudo apt-get install nautilus
 
 #install nodejs
