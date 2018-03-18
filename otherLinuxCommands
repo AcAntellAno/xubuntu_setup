@@ -15,3 +15,7 @@ sudo apt-get install nautilus
 #install nodejs
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
 sudo apt-get install -y nodejs
+
+
+#note => once Cairo Dock is installed, System Settings > Startup and Shutdown > Autostart > Add a program and type
+cairo-dock &
