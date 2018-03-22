@@ -19,3 +19,8 @@ sudo apt-get install -y nodejs
 
 #note => once Cairo Dock is installed, System Settings > Startup and Shutdown > Autostart > Add a program and type
 cairo-dock &
+
+
+#installing java and default jkd (make yourself root)
+sudo apt-get update && apt-get upgrade
+sudo apt-get install default-jdk
