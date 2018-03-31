@@ -26,3 +26,7 @@ cairo-dock &
 #installing java and default jkd (make yourself root)
 sudo apt-get update && apt-get upgrade
 sudo apt-get install default-jdk
+
+
+#get distro upgrade
+sudo apt-get dist-upgrade
